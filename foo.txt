@@ -1,0 +1,21 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lorem ipsum dolor sit amet,consectetur adipiscing elit.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Praesent(vel)convallis leo. Curabitur ultrices quis ligula sit amet ultricies.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In hac[habitasse] platea dictumst. Integer a consectetur lectus.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In=luctus+vestibulum/massa&sed&&consequat.||Nunc facilisis blandit pellentesque.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{Nulla vehicula eget dui elementum molestie. Lorem ipsum dolor sit amet},
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+onsectetur adipiscing elit;Praesent lacus lectus, eleifend imperdiet commodo vitae,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	efficitur non lectus.
+Mauris    eget velit  in justo luctus venenatis. Donec id lacus tellus.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{
+Lorem ipsum dolor sit amet, {consectetur adipiscing{ elit. Praesent }vel convallis leo.}
+Curabitur ultrices quis ligula sit amet ultricies.
+ In hac habitasse platea dictumst. Integer a consectetur lectus
+ }
