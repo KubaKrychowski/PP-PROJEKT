@@ -49,7 +49,7 @@ Zamknięcie nawiasu klamrowego zmniejsza poziom wcięcia w linii z nawiasem.
 
 ## Wymagania
 - JDK : corretto-19 (Amazon Corretto Version 19.0.2)
-- 
+
 ## Autor
 
 - Kuba Krychowski
