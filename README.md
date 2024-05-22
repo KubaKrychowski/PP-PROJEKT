@@ -47,14 +47,10 @@ Zamknięcie nawiasu klamrowego zmniejsza poziom wcięcia w linii z nawiasem.
 - Uruchomienie za pomocą dowolnego IDE obsługującego Gradle, lub za pomocą kompilatora javy.
 - Jako argument wejściowy podaje się nazwę pliku tekstowego z rozszerzeniem (domyślnie foo.txt)
 
-
-
-
-
 ## Wymagania
 - JDK : corretto-19 (Amazon Corretto Version 19.0.2)
-## credits
-## Authors
+- 
+## Autor
 
 - Kuba Krychowski
 
